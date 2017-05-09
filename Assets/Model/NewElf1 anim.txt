@@ -1,0 +1,53 @@
+엘프1
+
+아이들
+Idle ready		0
+Weapon ready		1
+
+죽음
+Die			2
+DeadBody		3
+
+아이들 점프
+up			4
+loop			5
+down			6
+
+이동(달리기)
+F			7
+B			8
+L			9
+R			10
+FL			11
+FR			12
+BL			13
+BR			14
+FStop			15
+
+이동 점프
+F up			16
+F loop			17
+F down			18
+B up			19
+B loop			20
+B down			21
+
+히트
+F			22
+B			23
+
+히트다운
+Up			24
+Down			25
+Loop			26
+Bounce			27
+GetUp			28
+
+기본공격
+Attack			29
+
+스킬 4개 중 1개
+SK1 charging		30
+SK1 Fire		31
+
+

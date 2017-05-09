@@ -1,0 +1,53 @@
+휴먼1
+
+아이들
+Idle ready		1
+Weapon ready		2
+
+죽음
+Die			3
+DeadBody		4
+
+아이들 점프
+up			5
+loop			6
+down			7
+
+이동(달리기)
+F			8
+B			9
+L			10
+R			11
+FL			12
+FR			13
+BL			14
+BR			15
+FStop			16
+
+이동 점프
+F up			17
+F loop			18
+F down			19
+B up			20
+B loop			21
+B down			22
+
+히트
+F			23
+B			24
+
+히트다운
+Up			25
+Down			26
+Loop			27
+Bounce			28
+GetUp			29
+
+기본공격
+Attack			30
+
+스킬 4개 중 1개
+SK1			31
+
+
+
