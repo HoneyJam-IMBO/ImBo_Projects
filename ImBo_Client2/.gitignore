@@ -1,0 +1,10 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/.vs/ImpossibleBoss/v14
+/IMBO_MAINFRAME/x64
+/x64
+/ipch/IMBO_MAINFRAME-925ee608
+/ImpossibleBoss.VC.db
+/ImpossibleBoss.VC.VC.opendb
